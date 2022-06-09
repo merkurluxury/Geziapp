@@ -30,3 +30,5 @@ Mekan hakkında yorum yazabilmek için mekan detaylarının bulunduğu sayfada b
 
 ## Favoriler
 Favoriler ekranımıza alt menuden erişebiliriz. Burada tüm kullanıcıların verdiği puanların ortalaması alınır. Sizlere 4 ve üstü puanı olan mekanları listelemekteyiz. 
+
+uygulama gif : https://drive.google.com/file/d/1fNlp6H_hDR5UpFIj_YCSRCcO450b8MYk/view?usp=sharing
