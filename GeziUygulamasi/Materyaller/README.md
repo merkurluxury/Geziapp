@@ -1,4 +1,8 @@
 # Gezi Uygulaması Hakkında
+# HAZIRLAYANLAR 
+1190505023 Furkan Kabak 1190505058 İbrahim Serhat Demircioğlu 1190505015 Rahim Türkmen
+
+
 
 ## Uygulama Hakkında Kısa Bilgi
 Uygulamamız bir gezi uygulamasıdır. Veritabanı olarak Firebase Realtime Database kullanmaktayız. Bu sayede anlık olarak tüm veriler siz uygulamayı kullanırken değişebilir. Bu ne demek? Siz mekanı incelerken yeni gelen yorumları ve değişen anlık mekan ortalama puan'ını görebilirsiniz.
