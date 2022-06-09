@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Gezi Uygulaması</string>
+    <string name="email_address">E-Posta Adresiniz</string>
+    <string name="password">Şifreniz</string>
+    <string name="retype_password">Şifreniz Tekrar</string>
+    <string name="register">Kayıt Ol</string>
+    <string name="dont_have_a_account">Hesabınız yok mu? Hemen oluşturun!</string>
+    <string name="do_you_have_a_account">Hesabınız var mı? Hemen giriş yapın!</string>
+    <string name="login">Giriş Yap</string>
+    <string name="please_enter_valid_email">Lütfen geçerli bir e-posta adresi girin!</string>
+    <string name="short_password">Şifreniz en az 6 karakter olmalıdır!</string>
+    <string name="no_match_password">Girilen iki şifre eşleşmiyor!</string>
+    <string name="no_user">Böyle bir hesap bulunamadı!</string>
+    <string name="wrong_password">Hatalı giriş denemesi!</string>
+    <string name="welcome_user">Hoşgeldin sevgili kullanıcı</string>
+    <string name="already_using_email">Bu e-posta adresi başka bir hesapta zaten kullanımda!</string>
+    <string name="categories">Kategoriler</string>
+    <string name="favorites">Favoriler</string>
+    <string name="place_price">Ücret\n%1$s</string>
+    <string name="working_hour">Çalışma\nsaatleri\n%1$s</string>
+    <string name="comments">Kullanıcı Yorumları</string>
+    <string name="add_comment">Yazıya tıklayarak kendi yorumunu oluştur!</string>
+    <string name="success">Başarılı</string>
+    <string name="please_change_comment">Lütfen yorumunuzu güncelleyin!</string>
+    <string name="info_title">Genel Bilgi</string>
+    <string name="average_rate">Ortalama\nPuan\n%1$s</string>
+</resources>
